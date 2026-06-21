@@ -1,6 +1,6 @@
 {
-  "name": "MetaCenter",
-  "description": "Unified social media management platform for digital agencies, featuring a centralized inbox and powerful multi-account publishing tools.",
+  "name": "Lumina AI Auto-Correction",
+  "description": "A low-latency, headless auto-correction engine that fixes grammar, spelling, and phrasing in real-time.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
