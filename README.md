@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/f2fc52d9-d9b4-4b92-9f13-c9670
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+Architecture Note: This project serves as a high-fidelity UI/UX prototype. All inbox threads, customer interactions, and multi-platform live previews are wired to local mock state (src/mockData.ts) to allow immediate local testing without requiring active Meta Graph API developer tokens.
